@@ -1,0 +1,54 @@
+{#<!DOCTYPE html>#}
+{#<html lang="en">#}
+{#<head>#}
+{#    <meta charset="UTF-8">#}
+{#    <title>分页器</title>#}
+{#    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">#}
+{#</head>#}
+{#<body>#}
+{#<div class="container">#}
+{#    <h1>分页器</h1>#}
+{#    {{ page_obj }}#}
+{#    {{ html_page|safe }}#}
+{#</div>#}
+{#</body>#}
+{#</html>#}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>分页模块</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .pagination .page {
+            display: inline-block;
+            padding: 5px;
+            background-color: #dddddd;
+            margin: 5px;
+        }
+
+        .pagination .page.action {
+            background-color: #a52a2a;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+{#    <ul>#}
+{#        {% for item in data %}#}
+{#            <li>{{ item }}</li>#}
+{#        {% endfor %}#}
+{#    </ul>#}
+{#    <div class="pagination">#}
+{#        {{ page_str }}#}
+{#    </div>#}
+
+<div class="Paginator">
+    {{ page_obj }}
+</div>
+
+
+</body>
+</html>
