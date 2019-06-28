@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8404c75-8bd5-4a50-932d-609c735f8344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test01 f/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test01/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/text1/1.html" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/text1/text1.git/HEAD" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/text1/text1.git/config" beforeDir="false" />
@@ -19,6 +20,43 @@
       <change beforePath="$USER_HOME$/Desktop/text1/text1.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/text1/text1.git/hooks/update.sample" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/text1/text1.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190627/test01  sc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../190627/test01  sc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/dataSources/fba02163-86cd-4535-91bc-b92fe6142705.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/test01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/app02/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/templates/books.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/test01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/test01/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/test01/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/test01/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/ts01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/utils/page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test01 f/记录" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test01.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +70,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app02/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding>
+                <element signature="e#630#658#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app02/viewsss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app02/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="34" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -44,28 +103,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test01/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2318">
-              <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/app02/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test01/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="817">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#630#662#0" expanded="true" />
               </folding>
@@ -74,22 +115,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app01/viewss.py">
+        <entry file="file://$PROJECT_DIR$/templates/app02/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app02/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="152">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -110,6 +139,7 @@
       <find>REF</find>
       <find>refe</find>
       <find>Session</find>
+      <find>csrf_exempt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,17 +148,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/记录" />
+        <option value="$PROJECT_DIR$/01.py" />
+        <option value="$PROJECT_DIR$/app01/viewss.py" />
+        <option value="$PROJECT_DIR$/app01/views.py" />
+        <option value="$PROJECT_DIR$/test01/urls.py" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/test01/settings.py" />
         <option value="$PROJECT_DIR$/app02/models.py" />
-        <option value="$PROJECT_DIR$/app02/urls.py" />
         <option value="$PROJECT_DIR$/templates/app02/login.html" />
+        <option value="$PROJECT_DIR$/记录" />
         <option value="$PROJECT_DIR$/app02/views.py" />
-        <option value="$PROJECT_DIR$/01.py" />
-        <option value="$PROJECT_DIR$/test01/urls.py" />
-        <option value="$PROJECT_DIR$/app01/views.py" />
-        <option value="$PROJECT_DIR$/app01/viewss.py" />
+        <option value="$PROJECT_DIR$/app02/urls.py" />
+        <option value="$PROJECT_DIR$/app02/viewss.py" />
+        <option value="$PROJECT_DIR$/app02/viewsss.py" />
       </list>
     </option>
   </component>
@@ -149,61 +181,90 @@
         <subPane>
           <expand>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="app01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="app01" type="462c0819:PsiDirectoryNode" />
               <item name="views.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
-              <item name="app01" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
+              <item name="views.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
               <item name="viewss.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="app02" type="462c0819:PsiDirectoryNode" />
+              <item name="viewss.py" type="8704e2dd:PyFileNode" />
+              <item name="Ccate" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="app02" type="462c0819:PsiDirectoryNode" />
-              <item name="models.py" type="8704e2dd:PyFileNode" />
+              <item name="viewss.py" type="8704e2dd:PyFileNode" />
+              <item name="Cindex" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
+              <item name="viewss.py" type="8704e2dd:PyFileNode" />
+              <item name="CloginOut" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
+              <item name="viewsss.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
+              <item name="app02" type="462c0819:PsiDirectoryNode" />
+              <item name="viewsss.py" type="8704e2dd:PyFileNode" />
+              <item name="Login" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="app02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="test01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
-              <item name="01.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="test01  sc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test01  sc" type="462c0819:PsiDirectoryNode" />
+              <item name="test01副本1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test01副本1" type="462c0819:PsiDirectoryNode" />
               <item name="manage.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
@@ -222,8 +283,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates/app02" />
       <recent name="$PROJECT_DIR$/app02" />
+      <recent name="$PROJECT_DIR$/templates/app02" />
       <recent name="$PROJECT_DIR$/app01" />
     </key>
   </component>
@@ -302,26 +363,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561605687586</updated>
-      <workItem from="1561605690128" duration="13148000" />
-      <workItem from="1561628836508" duration="11000" />
-      <workItem from="1561632939193" duration="7820000" />
-      <workItem from="1561643145561" duration="132000" />
-      <workItem from="1561679463320" duration="295000" />
+      <workItem from="1561605690128" duration="22642000" />
+      <workItem from="1561704321832" duration="5143000" />
+      <workItem from="1561712972940" duration="9863000" />
+      <workItem from="1561728732490" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21406000" />
+    <option name="totallyTimeSpent" value="37658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1885" height="1057" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14075287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19148937" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23664123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42093784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,7 +389,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="manage.py@test01" order="10" weight="0.32824427" />
+      <window_info anchor="bottom" id="manage.py@test01" order="10" weight="0.32901135" />
       <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
@@ -346,7 +406,6 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test01__sc$01.coverage" NAME="01 Coverage Results" MODIFIED="1561634188612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test01$01.coverage" NAME="01 Coverage Results" MODIFIED="1561619841273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -369,101 +428,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app01/viewss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/conf/global_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="472" column="53" selection-start-line="472" selection-start-column="51" selection-end-line="472" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/记录" />
+    <entry file="file://$PROJECT_DIR$/01.py" />
+    <entry file="file://$PROJECT_DIR$/test01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="50" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/viewss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app02/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="741">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
           <folding>
             <element signature="e#630#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/记录">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="128" column="16" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app02/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app02/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="34" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01/settings.py">
+    <entry file="file://$PROJECT_DIR$/test01/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2318">
-          <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
+        <state relative-caret-position="817">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/app02/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app01/viewss.py">
+    <entry file="file://$PROJECT_DIR$/app02/viewsss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app02/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test01/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="18" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="113">
+          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
         </state>
       </provider>
     </entry>
